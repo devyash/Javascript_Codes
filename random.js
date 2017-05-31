@@ -14,7 +14,6 @@ var names= animals.map(animal => animal.name)
 console.log(names);
 */
 /*
-var obj= {"users": {"nagios": [0, 0, 0, "-", 0], "whowell": [8220, 0, 0, "-", 10], "pbs": [0, 0, 0, "-", 0], "magitz": [585222380, 0, 0, "-", 2424759], "chasman": [755852580, 0, 0, "-", 223157], "yingz": [223031268, 0, 0, "-", 354385], "bang": [8784, 0, 0, "-", 97], "kmast": [4, 0, 0, "-", 1], "replicator": [0, 0, 0, "-", 0], "devyashsanghai": [4, 0, 0, "-", 1], "mlemmone": [4, 0, 0, "-", 1], "sas": [0, 0, 0, "-", 0], "jakers": [534744, 0, 0, "-", 227], "davidestricklin": [4, 0, 0, "-", 1], "lthibert": [4, 0, 0, "-", 1], "moskalenko": [13405506596, 0, 0, "-", 2908650], "maxprok": [3941061388, 0, 0, "-", 1497661], "cpp": [156074452, 0, 0, "-", 94983], "testusr-jstrds": [0, 0, 0, "-", 0], "etomeo": [788028, 0, 0, "-", 12], "brantleyk": [4, 0, 0, "-", 1], "jstrds": [101624656, 0, 0, "-", 307195], "bio": [0, 0, 0, "-", 0], "slurm": [0, 0, 0, "-", 0], "sharath1231": [453816, 0, 0, "-", 6538], "yfu": [109209464, 0, 0, "-", 39]}, "group": {"ufhpc": [11706055752, 23622320128, 23622320128, "-", 6342521]}};
 //console.log(obj);
 var output=obj.filter(key=> key);
 console.log(output);*/
